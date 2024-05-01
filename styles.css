@@ -85,6 +85,7 @@ ul li button {
     border-radius: 7px;
     font-size: 0.9rem;
     font-weight: 600;
+    cursor: pointer;
 
 }
 
